@@ -7,8 +7,9 @@ const config = {
     kit: {
         adapter: adapter(),
         paths: {
-            base: dev ? '' : '/FearOfElronSite'
-        },
+			base: dev ? '' : '/FearOfElronSite'
+		},
+		
         appDir: 'internal'
     },
     prerender: {
