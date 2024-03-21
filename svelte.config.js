@@ -12,7 +12,7 @@ const config = {
 			default: true
 		},
 		paths: {
-			base: dev ? '' : '/your-repo-name'
+			base: dev ? '' : '/FearOfElronSite'
 		},
 		appDir: 'internal'
 	}
