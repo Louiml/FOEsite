@@ -40,12 +40,12 @@
 <style>
 	@font-face {
         font-family: 'DanaYadAlefAlefAlef-Normal';
-        src: url("$lib/fonts/DanaYadAlefAlefAlef-Normal.otf");
+        src: url("../lib/DanaYadAlefAlefAlef-Normal.otf");
 		font-style: normal;
     }
 	@font-face {
         font-family: 'DanaYadAlefAlefAlef-Regular';
-        src: url("$lib/fonts/GveretLevinAlefAlefAlef-Regular.otf");
+        src: url("../lib/fonts/GveretLevinAlefAlefAlef-Regular.otf");
 		font-style: normal;
     }
 	.centertext {

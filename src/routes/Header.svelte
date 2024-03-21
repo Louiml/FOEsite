@@ -1,7 +1,7 @@
 <script>
 	import { page } from '$app/stores';
-	import download from '$lib/images/download.svg';
-	import instagram from '$lib/images/instagram.png';
+	import download from '../lib/images/download.svg';
+	import instagram from '../lib/images/Instagram.png';
 </script>
 
 <header>
