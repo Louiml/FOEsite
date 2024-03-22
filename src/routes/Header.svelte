@@ -16,13 +16,13 @@
 			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
 		</svg>
 		<ul>
-			<li aria-current={$page.url.pathname === 'FearOfElronSite/' ? 'page' : undefined}>
+			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === 'FearOfElronSite/about' ? 'page' : undefined}>
+			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
 				<a href="/about">About</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('FearOfElronSite/store') ? 'page' : undefined}>
+			<li aria-current={$page.url.pathname.startsWith('/store') ? 'page' : undefined}>
 				<a href="/store">Store</a>
 			</li>
 		</ul>
