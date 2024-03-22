@@ -1,6 +1,6 @@
 <svelte:head>
 	<title>Store</title>
-	<meta name="description" content="The store" />
+	<meta name="description" content="השופ הרשמי של פיר אוף אלרון - בקרוב.." />
 </svelte:head>
 
 <div class="text-column">

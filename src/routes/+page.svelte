@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="האתר הרשמי של פיר אוף אלרון" />
 </svelte:head>
 
 <section>
