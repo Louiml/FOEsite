@@ -6,7 +6,7 @@
 
 <header>
 	<div class="corner">
-		<a href="https://mediafire.com">
+		<a href="https://mediafire.com/JWU2FHFS2412">
 			<img src={download} alt="SvelteKit" />
 		</a>
 	</div>
