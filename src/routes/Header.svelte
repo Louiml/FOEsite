@@ -6,7 +6,7 @@
 
 <header>
 	<div class="corner">
-		<a href="https://mediafire.com/JWU2FHFS2412">
+		<a href="https://www.mediafire.com/file/yfylbz36pse8a87/FearOfElron2.rar/file">
 			<img src={download} alt="SvelteKit" />
 		</a>
 	</div>
@@ -24,6 +24,9 @@
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/store') ? 'page' : undefined}>
 				<a href="/store">Store</a>
+			</li>
+			<li aria-current={$page.url.pathname.startsWith('/news') ? 'page' : undefined}>
+				<a href="/news">News</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
