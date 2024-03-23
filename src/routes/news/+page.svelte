@@ -34,7 +34,7 @@ Unavailable</pre>
 <pre>PATCH 0.6:
 Unavailable</pre>
 <pre>PATCH 0.5:
-[Modified /Engine/FearOfElron.FearOfElron (Thumbnail) F="/Appdata/EpicGames/UE5.1/Data/thumb.jpg" T=Unavailable]</pre>
+[Modified /Engine/FearOfElron.FearOfElron (Thumbnail) F="/Appdata/EpicGames/UE5.1/Data/thumb.jpg" T=*Unavailable*]</pre>
 <pre>PATCH 0.4:
 Unavailable</pre>
 <pre>PATCH 0.3:
