@@ -7,7 +7,7 @@
 <header>
 	<div class="corner">
 		<a href="https://www.mediafire.com/file/yfylbz36pse8a87/FearOfElron2.rar/file">
-			<img src={download} alt="SvelteKit" />
+			<img src={download} alt="ההורדה של פיר אוף אלרון 2" />
 		</a>
 	</div>
 
