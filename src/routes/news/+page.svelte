@@ -1,10 +1,14 @@
 <svelte:head>
-	<title>Store</title>
+	<title>News</title>
 	<meta name="description" content="חדשות ועדכונים לגבי המשחק פיר אוף אלרון 3" />
 </svelte:head>
 
 <div class="text-column">
 	<h1>חדשות בזמן אמת על פיתוח המשחק פיר אוף אלרון</h1>
+	<pre>PATCH 1.6:
+[Added item(Pet)] איש עם ראש ברווז (RazHaBarvaz)
+[Added item(Pet)] מג'די המורה הטוב בעולם (Majdi)
+[Fixed Blueprint(Widget)] Stamina (/Game/FearOfElron/UI/Components/C_Stamina.C_Stamina) - היה בעיה במפה בגלל הלנדסקייפ שלה</pre>
 	<pre>PATCH 1.5:
 [Added Blueprint(Widget)] Stamina (/Game/FearOfElron/UI/Components/C_Stamina.C_Stamina) - הוספתי סטמינה בגלל כל הבקשות
 [Modified Blueprint(Widget)] Credits (/Game/FearOfElron/UI/credits.credits) - הוספתי עוד כמה אנשים לקרדיטים</pre>
